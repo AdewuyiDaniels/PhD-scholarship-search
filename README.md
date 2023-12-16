@@ -11,7 +11,7 @@ Automate the search for Ph.D. scholarships on findaphd.com using web scraping. T
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/yourusername/phd-scholarship-search.git`
+1. Clone the repository: `git clone https://github.com/AdewuyiDaniels/phd-scholarship-search.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the scraper: `python scraper.py`
 4. Customize notification settings in `config.py`.
