@@ -4,7 +4,7 @@ Automate the search for Ph.D. scholarships on findaphd.com using web scraping. T
 
 ## Features
 
-- **Web Scraping:** Utilizes BeautifulSoup and Scrapy for efficient data extraction.
+- **Web Scraping:** Utilizes BeautifulSoup for efficient data extraction.
 - **Data Storage:** Saves scraped data in CSV format for easy analysis.
 - **Automation:** Schedule updates to keep the dataset current.
 - **Notification System:** Receive alerts for new Ph.D. scholarships via email or messaging.
